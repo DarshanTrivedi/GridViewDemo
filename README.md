@@ -1,0 +1,3 @@
+If you’re familiar with Android’s listview layout component, then you should feel like home here as well. The Android GridView is quite similar to listview component. It basically helps to build two-dimensional, easy-to-browse scrolling lists. I’ve also created a demo on [Building Two-Dimensional Scrolling List Using Android GridView in Android App](https://www.spaceotechnologies.com/android-gridview-example/). 
+
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android App and looking to [Hire Android App Development Company](http://www.spaceotechnologies.com/android-app-development/) to help you, then you can contact Space-O Technologies for the same.
